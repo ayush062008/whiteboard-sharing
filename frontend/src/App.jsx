@@ -13,7 +13,7 @@ import RoomPage from "./pages/RoomPage";
    SOCKET CONNECTION
 ============================== */
 
-const server = "http://localhost:5000";
+const server = "https://whiteboard-sharing-5.onrender.com";
 
 const connectionOptions = {
   reconnectionAttempts: Infinity,
